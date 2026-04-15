@@ -60,15 +60,15 @@ Intelligent code review system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haris-beep&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haris-Hussain1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-beep&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris-Hussain1&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haris-beep&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris-Hussain1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
